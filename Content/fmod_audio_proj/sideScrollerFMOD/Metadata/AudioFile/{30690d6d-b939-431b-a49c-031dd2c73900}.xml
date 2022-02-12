@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{30690d6d-b939-431b-a49c-031dd2c73900}">
+		<property name="assetPath">
+			<value>Cheering.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.9210430839002268</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{77cd576f-56d7-4475-b01b-477dd0c315f2}</destination>
+		</relationship>
+	</object>
+</objects>
